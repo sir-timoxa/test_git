@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="" />
+    <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/alena's_directory/alena_HW-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/alena's_directory/alena_HW-5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681048578172</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Class Pet is created in alena_HW-5.py">
+      <created>1681048684098</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681048684098</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

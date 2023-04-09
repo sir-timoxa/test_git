@@ -16,3 +16,6 @@ class Cat:
         super().__init__(name, weight, color)
         self.paws = paws
 
+
+    def make_a_bite(self):
+        return "I've already made a bite! "

@@ -9,3 +9,10 @@ class Pet:
 
     def eat(self):
         return "Feed me now!"
+
+
+class Cat:
+    def __init__(self, name, weight, color):
+        super().__init__(name, weight, color)
+        self.paws = paws
+

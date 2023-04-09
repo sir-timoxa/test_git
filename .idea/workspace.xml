@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="" />
+    <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681047987916</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="This file for HW-5 is created by Alena">
+      <created>1681048185814</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681048185814</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +192,7 @@
     <MESSAGE value="nowoe" />
     <MESSAGE value="HW-5. Beginning from Alena" />
     <MESSAGE value="This directory is created for Alena." />
-    <option name="LAST_COMMIT_MESSAGE" value="This directory is created for Alena." />
+    <MESSAGE value="This file for HW-5 is created by Alena" />
+    <option name="LAST_COMMIT_MESSAGE" value="This file for HW-5 is created by Alena" />
   </component>
 </project>

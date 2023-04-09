@@ -3,3 +3,9 @@ class Pet:
         self.name = name
         self.weight = weight
         self.color = color
+
+    def sleep(self):
+        return "I can sleep"
+
+    def eat(self):
+        return "Feed me now!"

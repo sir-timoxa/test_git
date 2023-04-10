@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681133301148</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="In new.txt function greening is changed">
+      <created>1681152609906</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1681152609906</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +269,7 @@
     <MESSAGE value="Class Pet is created in alena_HW-5.py" />
     <MESSAGE value="In alena_HW-5.py the method &quot;make_a_bite(self)&quot; is added to a class Cat" />
     <MESSAGE value="In file new.txt function greening is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="In file new.txt function greening is added" />
+    <MESSAGE value="In new.txt function greening is changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="In new.txt function greening is changed" />
   </component>
 </project>

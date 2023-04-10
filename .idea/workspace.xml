@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91aaca53-e845-46a6-8b62-32ca47017bdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/alena's_directory/alena_HW-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/alena's_directory/alena_HW-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,29 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/DEVIL732/PycharmProjects/test_git&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="test_git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -156,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681048684098</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="In alena_HW-5.py the method &quot;make_a_bite(self)&quot; is added to a class Cat">
+      <created>1681049162597</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681049162597</updated>
+    </task>
+    <task id="LOCAL-00015" summary="In alena_HW-5.py the method &quot;make_a_bite(self)&quot; is added to a class Cat">
+      <created>1681074614868</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1681074614868</updated>
+    </task>
+    <task id="LOCAL-00016" summary="In file new.txt function greening is added">
+      <created>1681133301148</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1681133301148</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +260,8 @@
     <MESSAGE value="This file for HW-5 is created by Alena" />
     <MESSAGE value="The beginning of HW-5 from Alena" />
     <MESSAGE value="Class Pet is created in alena_HW-5.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Pet is created in alena_HW-5.py" />
+    <MESSAGE value="In alena_HW-5.py the method &quot;make_a_bite(self)&quot; is added to a class Cat" />
+    <MESSAGE value="In file new.txt function greening is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="In file new.txt function greening is added" />
   </component>
 </project>

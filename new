@@ -2,3 +2,10 @@ world
 print("Hello")
 
 Всем привет! Это я)) *Лилия*
+
+
+Привет, это Никита!))
+
+def greening(name):
+    name = input()
+    print(f'Hello, my name is {name} and I'm a pythonist...')

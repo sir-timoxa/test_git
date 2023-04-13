@@ -1,3 +1,4 @@
+
 print('Homework 5 Lilia')
 class Trees:
     biology_class = 'Plant'
@@ -23,3 +24,4 @@ print(tree1.biology_class)
 tree2 = Trees('Apple_tree', 3, 'green')
 print(tree2.biology_class)
 print(tree2.get_name())
+
